@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(240, 237, 237);
 }
 
 .App-link {
@@ -35,4 +35,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+*{
+  background-color: #080452 ;
+  color: #6ceef7;
+  /* color: #01ff70; */
 }
