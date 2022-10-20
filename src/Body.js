@@ -17,7 +17,7 @@ export default function Body() {
                   setItems(res.data.meals);
 
        }).catch((err)=>{
-        console.log('ma chuda');
+        console.log('error in loading!');
        })
      },[])
 
